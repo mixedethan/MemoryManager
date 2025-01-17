@@ -1,0 +1,3 @@
+/Users/ethanwilson/CLionProjects/MemoryManager/cmake-build-debug/CMakeFiles/P2MemoryManager.dir
+/Users/ethanwilson/CLionProjects/MemoryManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ethanwilson/CLionProjects/MemoryManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
